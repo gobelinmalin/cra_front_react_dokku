@@ -1,12 +1,3 @@
-## Front Nrgybox
-
-Team : 
-- Chloé
-- Michaël
-- Johanna
-- Enzo
-- Benoit
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Getting started
